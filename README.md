@@ -1,4 +1,4 @@
-# bug-hunt-program
+# bug-hunt
 
 🐞 Welcome to Learning to Code: The Bug Hunt!
 
